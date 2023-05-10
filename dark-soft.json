@@ -1,0 +1,23 @@
+{
+  "background": "#222222",
+  "black": "#333333",
+  "blue": "#005CC5",
+  "brightBlack": "#4F4F4F",
+  "brightBlue": "#2188FF",
+  "brightCyan": "#79B8FF",
+  "brightGreen": "#28A846",
+  "brightPurple": "#8A63D2",
+  "brightRed": "#EA4A5A",
+  "brightWhite": "#DBD7CA",
+  "brightYellow": "#FFD33D",
+  "cursorColor": "#DBD7CA",
+  "cyan": "#5A88BD",
+  "foreground": "#DBD7CA",
+  "green": "#248F3E",
+  "name": "Vitesse Dark Soft",
+  "purple": "#6F42C1",
+  "red": "#D73A49",
+  "selectionBackground": "#252525",
+  "white": "#B8B4A9",
+  "yellow": "#F9C513"
+}
