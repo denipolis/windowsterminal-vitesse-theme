@@ -1,6 +1,7 @@
 <h1 align="center">Vitesse Theme for Windows Terminal (Unofficial)</h1>
 
 Unofficial version of [antfu/vscode-theme-vitesse](https://github.com/antfu/vscode-theme-vitesse) made for Windows Terminal 🎨
+
 This theme is based on the colors of the Vitesse VSCode theme. Some of them have been edited to ensure proper operation in the Windows Terminal.
 
 ![Preview](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/screenshots/dark-soft.png?raw=true)
