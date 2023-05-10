@@ -14,10 +14,9 @@ This theme is based on the colors of the Vitesse VSCode theme. Some of them have
 
 # Installation
 
-### Variant 1: Add to your current configuration.
-
- 1. Download and open `.json` file of your preferred scheme (`dark-soft.json` for example).
- 2. Open Windows Terminal settings, then press `Open JSON file` in left bottom corner.
+### Variant 1: Add to your current configuration
+1. Download and open `.json` file of your preferred scheme (`dark-soft.json` for example).
+2. Open Windows Terminal settings, then press `Open JSON file` in left bottom corner.
 ![Open JSON file](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/screenshots/openJson.png?raw=true)
 3. Find `schemes` block in opened JSON file.
 4. Copy contents of `theme.json` file and paste it between `[]` in `schemes` block. Don't forget to add comma before it if it's not the first schema in the list.
@@ -27,7 +26,7 @@ This theme is based on the colors of the Vitesse VSCode theme. Some of them have
 
 ### Variant 2: Replace configuration
 YOUR WINDOWS TERMINAL CONFIGURATION WILL BE DELETED!
-1. Download and open `settings.json`
+1. Download and open [`settings.json`](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/settings.json)
 2. Open Windows Terminal settings, then press `Open JSON file` in left bottom corner.
 ![Open JSON file](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/screenshots/openJson.png?raw=true)
 3. Replace Windows Terminal configuration with `settings.json`.
