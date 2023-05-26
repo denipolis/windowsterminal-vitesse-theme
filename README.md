@@ -8,7 +8,7 @@ This theme is based on the colors of the Vitesse VSCode theme. Some of them have
 
 ### Available schemes:
  - [x] [Vitesse Dark Soft](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/dark-soft.json)
- - [ ] Vitesse Light Soft
+ - [x] [Vitesse Light Soft](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/light-soft.json)
  - [ ] Vitesse Dark
  - [ ] Vitesse Black
  - [ ] Vitesse Light
