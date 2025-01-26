@@ -1,0 +1,23 @@
+{
+  "name": "Vitesse Light",
+  "background": "#FFFFFF",
+  "black": "#121212",
+  "blue": "#296AA3",
+  "brightBlack": "#AAAAAA",
+  "brightBlue": "#296AA3",
+  "brightCyan": "#2993A3",
+  "brightGreen": "#1E754F",
+  "brightPurple": "#A13865",
+  "brightRed": "#AB5959",
+  "brightWhite": "#DDDDDD",
+  "brightYellow": "#BDA437",
+  "cursorColor": "#393A34",
+  "cyan": "#2993A3",
+  "foreground": "#393A34",
+  "green": "#1E754F",
+  "purple": "#A13865",
+  "red": "#AB5959",
+  "selectionBackground": "#222222",
+  "white": "#DBD7CA",
+  "yellow": "#BDA437"
+}
