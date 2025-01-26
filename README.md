@@ -27,7 +27,7 @@ This theme is inspired by the colors of the Vitesse VSCode theme, with some modi
 
 ### Option 2: Replace the Configuration
 > [!WARNING]
-> This will overwrite your Windows Terminal configuration!**
+> This will overwrite your Windows Terminal configuration!
 
 1. Download and open [`settings.json`](https://github.com/denipolis/windowsterminal-vitesse-theme/blob/main/settings.json).
 2. Open Windows Terminal settings and click **Open JSON file** at the bottom left corner.
